@@ -1,0 +1,14 @@
+[server]
+listen="0.0.0.0:3000"
+
+[notifier.hello]
+url = "feishu+https://abc.xyz/token?signKey=123456"
+timout = 6
+
+[notifier.world]
+url = "feishu+https://abc.xyz/token?signKey=123456"
+timout = 6
+
+[notifier.LetsRocks]
+url = "feishu+https://abc.xyz/token?signKey=123456"
+timout = 6
